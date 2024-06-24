@@ -1,4 +1,4 @@
-BUNUN VE sudo nano ~/.bash_login  BUNUN İÇERİĞİ BOŞ   sudo nano ~/.bash_profile
+BUNUN VE sudo nano ~/.bash_login  BUNUN İÇERİĞİ BOŞ   sudo nano ~/.bash_profile 
 
 BUNUN  sudo nano ~/.profile   İÇİNDE BU VAR:
 
